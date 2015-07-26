@@ -104,6 +104,13 @@ var evaluator = createExpressionEvaluator()
 console.log( evaluator.evaluate( "5/0" ) ); // Infinity
 ```
 
+### Exponential Back-off
+
+If you have the produces and the consumer going, and then you kill the consumer, the 
+producers will start to slow down using a `delay *= 1.2` simple back-off. I know this 
+isn't all that robust; but, I wanted to show that I was trying to think about failure
+cases.
+
 
 ----
 
