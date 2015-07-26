@@ -55,7 +55,7 @@ logger.info( "Starting to generate expressions for the consumer." );
 
 // Because we are depending on an external system, I'm going to try to implement a 
 // really simply exponential back-off if the consumer stops responding with success.
-var defaultDelay = 10;
+var defaultDelay = 500;
 var currentDelay = defaultDelay;
 
 sendNextExpression();
