@@ -122,6 +122,19 @@ I am very excited for the opportunity to learn more about running JavaScript on 
 server. I hope that you can view this code, and my mindset, as a lump of raw clay that is
 eager to be shaped by the excellence of your team.
 
+## Technical Shortcomings
+
+I don't know much of anything about UML (you'll notice the complete lack of UML diagrams
+in the code). And, I know next to nothing about testing. I've written maybe 20 unit tests
+_in my life_. Also, having never written production Node.js code before, I don't feel 
+very confident in the architecture or organization of the code.
+
+## Time to Complete
+
+While I didn't track time on this project, I worked on it Friday morning and parts of the
+day on Saturday and Sunday. If I had to guesstimate, I'd say I spent around 10-hours on
+this project. So, not an insignificant amount of time, to be sure.
+
 ## Zero Dependencies
 
 For this challenge, I wanted to create a dependency-free application. Meaning, there is
@@ -138,20 +151,3 @@ Since I was trying to keep this dependency-free, I used callbacks to handle asyn
 code. If I were to do this with dependencies, I would have done `npm install q` and used
 Kris Kowal's promise library. I know other people love BlueBird; but, coming from an 
 AngularJS background, q just makes sense.
-
-### Technical Shortcomings
-
-I don't know much of anything about UML (you'll notice the complete lack of UML diagrams
-in the code). And, I know next to nothing about testing. I've written maybe 20 unit tests
-_in my life_. Also, having never written production Node.js code before, I don't feel 
-very confident in the architecture or organization of the code.
-
-### Time to Complete
-
-While I didn't track time on this project, I worked on it Friday morning and parts of the
-day on Saturday and Sunday. If I had to guesstimate, I'd say I spent around 10-hours on
-this project. So, not an insignificant amount of time, to be sure.
-
-
-
-
