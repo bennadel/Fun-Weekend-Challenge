@@ -146,4 +146,12 @@ in the code). And, I know next to nothing about testing. I've written maybe 20 u
 _in my life_. Also, having never written production Node.js code before, I don't feel 
 very confident in the architecture or organization of the code.
 
+### Time to Complete
+
+While I didn't track time on this project, I worked on it Friday morning and parts of the
+day on Saturday and Sunday. If I had to guesstimate, I'd say I spent around 10-hours on
+this project. So, not an insignificant amount of time, to be sure.
+
+
+
 
